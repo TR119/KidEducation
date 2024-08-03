@@ -1,8 +1,8 @@
-﻿using KidEducation.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using KidEducation.UI.Models;
 
-namespace KidEducation.Controllers
+namespace KidEducation.UI.Controllers
 {
     public class HomeController : Controller
     {

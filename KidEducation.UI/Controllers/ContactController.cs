@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace KidEducation.Controllers
+namespace KidEducation.UI.Controllers
 {
-    public class BlogController : Controller
+    public class ContactController : Controller
     {
         public IActionResult Index()
         {

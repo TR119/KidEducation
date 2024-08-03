@@ -1,4 +1,4 @@
-namespace KidEducation.Models
+namespace KidEducation.UI.Models
 {
     public class ErrorViewModel
     {
